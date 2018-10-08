@@ -1,0 +1,17 @@
+
+# Dotfile .gitignore
+
+# Mass-ignore
+*
+**/.swp
+
+# Git
+!/.gitignore
+
+#Arduino files
+!*.ino
+!*.c
+!*.h
+
+# Other code
+!*.py
